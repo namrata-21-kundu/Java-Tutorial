@@ -21,16 +21,6 @@
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhradeep333&show_icons=true&theme=radical" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhradeep333&theme=radical" />
-</p>
-
-<hr>
-
 <h2>📘 About This Repository</h2>
 
 <p>
