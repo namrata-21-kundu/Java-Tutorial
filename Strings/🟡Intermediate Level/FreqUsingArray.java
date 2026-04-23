@@ -1,4 +1,4 @@
-//Find the frequency of each character in a String using arrays
+//Find the frequency of each character in a string using arrays. 
 import java.util.*;
 public class FreqUsingArray{
     public static void main(String[] args){
